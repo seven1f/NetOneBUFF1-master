@@ -1,0 +1,179 @@
+.market-header {
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+    /*background: url(../images/site/marcket-header-bg.png) no-repeat;*/
+    color: #90969C;
+    padding: 24px 0 0;
+}
+.h1z1-selType {
+    height: 90px;
+    display: block;
+    margin: 0 30px;
+}
+.product-wid{
+    width: 200px;
+}
+.blank20 {
+    height: 20px;
+    overflow: hidden;
+    font-size: 0;
+    line-height: 0;
+}
+.market-header {
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+    background: url(../images/site/marcket-header-bg.png) no-repeat;
+    color: #90969C;
+    padding: 24px 0 0;
+}
+.market-header .cont-tab, .market-header .criteria, .market-header .tab-games {
+    margin: 0 30px;
+}
+body, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, ol, p, ul {
+    padding: 0;
+    margin: 0;
+}
+ol, ul {
+    list-style: none;
+}
+div {
+    display: block;
+}
+.h1z1-selType {
+    height: 90px;
+    display: block;
+    margin: 0 30px;
+}
+.blank6 {
+    height: 6px;
+    overflow: hidden;
+    font-size: 0;
+    line-height: 0;
+}
+.cont-tab li {
+    float: left;
+    margin-right: 40px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.w-Search {
+    font-size: 0;
+    display: inline-block;
+    margin-top: 20px;
+}
+.w-Search .i_Text {
+    width: 240px;
+    font-size: 12px;
+}
+.black .i_Text {
+    border-color: #3F5D97;
+    color: #E4E8EE;
+    background: #1c2942;
+    background: rgba(72,134,255,.16);
+}
+.i_Text {
+    border: 1px solid #e3e3e3;
+    padding: 3px 6px;
+    line-height: 24px;
+    background: rgba(0, 0, 0, .075);
+    min-height: 24px;
+    border-radius: 2px;
+    vertical-align: middle;
+    color: #515151;
+}
+.w-Search a {
+    display: inline-block;
+    height: 34px;
+    line-height: 34px;
+    padding: 0 22px;
+    background: #3F5D97;
+    color: #E1E5EC;
+    font-size: 14px;
+    vertical-align: middle;
+    border-radius: 0 2px 2px 0;
+    margin-left: -2px;
+}
+.market-card {
+    background: #23262c;
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+    color: #90969C;
+    padding: 24px 0 0;
+}
+.block-header .l_Left {
+    margin: 10px 0 0 25px;
+}
+.l_Left {
+    float: left;
+}
+.block-header .l_Left .w-OrderGroup {
+    margin-right: 12px;
+}
+#j_w-Toast p, .w-Checkbox, .w-Counter, .w-Key, .w-Order, .w-OrderGroup, .w-Radio, .w-Search, .w-SelHero, .w-Select, .w-Select-Multi, .w-Selectsearch, .w-Steper, .w-Steper span, .w-Stone, .w-Switcher, .w-Switcher span, .w-Tag, .w-Tag span {
+    *display: inline;
+    vertical-align: middle;
+}
+.w-OrderGroup {
+    font-size: 0;
+    border-radius: 2px;
+    overflow: hidden;
+    border: 1px solid #45536C;
+    border-right: none;
+    display: inline-block;
+    line-height: 32px!important;
+}
+.w-Order {
+    display: inline-block;
+    cursor: pointer;
+    background: #3A455A;
+    color: #fff;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 2px;
+    padding: 0 12px 0 18px;
+    font-size: 12px;
+    text-align: center;
+}
+.w-Order{
+    vertical-align: middle;
+}
+.w-OrderGroup .w-Order:first-child {
+    padding: 0 12px;
+}
+.w-OrderGroup .w-Order_asc, .w-OrderGroup .w-Order_des {
+    background: #45536C;
+    color: #fff;
+}
+.w-OrderGroup .w-Order {
+    border-radius: 0;
+    min-width: 60px;
+    background: 0;
+    border-right: 1px solid #45536C;
+    color: #FFFFFF;
+    padding: 0 6px 0 22px;
+    *padding: 0 12px 0 18px;
+}
+.block-header .l_Right {
+    line-height: 50px;
+    margin: 0 25px 0 0;
+}
+.l_Right {
+    float: right;
+}
+.w-Checkbox, .w-Radio {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+}
+.market-card2 {
+    background: rgba(26, 31, 50, 0.02);
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+    color: #90969C;
+    padding: 24px 0 0;
+}
+

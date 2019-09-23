@@ -1,5 +1,5 @@
 # NetOneBUFF1-master
-网壹buff饰品交易网站
+网壹buff饰品交易网站部分功能预览图
 
 ### 登入
 ![](https://github.com/seven1f/project-gif/blob/master/images/%E7%99%BB%E5%BD%95.gif)
